@@ -4,7 +4,7 @@ Config.MaxPlayers = 128 -- the max players you can have on your server.
 Config.OpenKey = 'HOME' -- https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
 Config.Command = "scoreboard" -- to open the scoreboard or HOME
 -----------------------------------------------------------------------------------------------------------------------------------
-Config.Notify = "roda-notify" -- Default:(qb-core), you can also use (roda-notify/okokNotify)
+Config.Notify = "qb-core" -- Default:(qb-core), you can also use (roda-notify/okokNotify)
 Config.NotifyTitle = "Scoreboard"
 -----------------------------------------------------------------------------------------------------------------------------------
 -- show or not show admin ids, 
