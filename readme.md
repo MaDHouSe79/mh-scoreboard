@@ -1,13 +1,11 @@
 # MH Scoreboard
 - Edit of qb-scoreboard.
 
-
 # Optional
 - okokNotify
 - Roda_Notifications:
 
-## 📸 Screenshot 👊😁👍
-## 📸 Screenshot 👊😁👍
+# Screenshot
 ![foto1](https://media.discordapp.net/attachments/1057778180024447116/1094419139604529215/SPOILER_Aantekening_2023-04-09_020733.png?width=559&height=676)
 ![foto2](https://media.discordapp.net/attachments/1057778180024447116/1094419139851976734/SPOILER_Aantekening_2023-04-09_022609.png?width=954&height=676)
 ![foto3](https://media.discordapp.net/attachments/1057778180024447116/1094595669781663787/SPOILER_Aantekening_2023-04-09_141018.png)
