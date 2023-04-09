@@ -1,5 +1,37 @@
+<p align="center">
+    <img width="140" src="https://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/128/Letter-M-icon.png" />  
+    <h1 align="center">Hi 👋, I'm MaDHouSe</h1>
+    <h3 align="center">A passionate allround developer </h3>    
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaDHouSe79/mh-scoreboard/issues">
+    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-scoreboard"/> 
+  </a>
+  <a href="https://github.com/MaDHouSe79/mh-scoreboard/watchers">
+    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-scoreboard"/> 
+  </a> 
+  <a href="https://github.com/MaDHouSe79/mh-sitanyseat/network/members">
+    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-scoreboard"/> 
+  </a>  
+  <a href="https://github.com/MaDHouSe79/mh-sitanyseat/stargazers">
+    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-scoreboard?color=white"/> 
+  </a>
+  <a href="https://github.com/MaDHouSe79/mh-scoreboard/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-sitanyseat?color=black"/> 
+  </a>      
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
+</p>
+
+
 # MH Scoreboard
-- Edit of qb-scoreboard.
+- Rebuild of qb-scoreboard.
+- admins are able to disable the id avobe the there head. 
+- if you want, you can have the text GOD or ADMIN with your ID, you are also able to disable this option in the config.lua.
+- full costible
 
 # Optional
 - okokNotify
@@ -49,3 +81,13 @@ TriggerServerEvent('qb-scoreboard:server:SetActivityBusy', 'Pacific', true)     
 TriggerServerEvent('qb-scoreboard:server:SetActivityBusy', 'Pacific', false)      -- disable
 --
 ```
+
+## 🐞 Any bugs issues or suggestions, let my know. 👊😎
+
+## 🙈 Youtube & Discord
+- [Youtube](https://www.youtube.com/@MaDHouSe79) for videos
+- [Discord](https://discord.gg/cEMSeE9dgS)
+
+# LICENSE
+[GPL LICENSE](./LICENSE)<br />
+&copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
