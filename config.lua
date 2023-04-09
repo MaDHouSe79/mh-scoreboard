@@ -5,7 +5,7 @@ Config.OpenKey = 'HOME' -- https://docs.fivem.net/docs/game-references/input-map
 Config.Command = "scoreboard" -- to open the scoreboard or HOME
 -----------------------------------------------------------------------------------------------------------------------------------
 Config.Notify = "qb-core" -- Default:(qb-core), you can also use (roda-notify/okokNotify)
-Config.NotifyTitle = "Scoreboard"
+Config.NotifyTitle = "Scoreboard" -- us used for other notify system than qb-core (dont change it)
 -----------------------------------------------------------------------------------------------------------------------------------
 -- show or not show admin ids, 
 -- set use the trigger to set this to false if you go in spectate mode, 
