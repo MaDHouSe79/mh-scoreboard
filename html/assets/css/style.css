@@ -1,0 +1,146 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tajawal:700&display=swap&subset=arabic');
+
+.container {
+    height: 100vh;
+    font-family: 'Tajawal', sans-serif !important;
+}
+
+.scoreboard-block {
+    display: none;
+    position: absolute;
+    height: 53.0vh;
+    width: 43vh;
+    border-radius: 8px;
+    background: linear-gradient(to top, #00000090, #ff150090, #00000090);
+    right: 5vh;
+    top: 22vh;
+    box-shadow: 0px 0px 5px 2px rgba(110, 110, 110, 0.205);
+}
+
+.scoreboard-header > p {
+    font-weight: bold;
+    color: rgb(0, 255, 191);
+    padding: 1.8vh;
+    font-family: 'Tajawal';
+    font-size: 1.8vh;
+}
+
+.scoreboard-info {
+    position: absolute;
+    height: 32.5vh;
+    width: 20vh;
+    top: 45%;
+	  left: 51%;
+    transform: translateY(-50%);
+    margin: 0 auto;
+}
+
+.scoreboard-info1 {
+    position: absolute;
+    height: 32.5vh;
+    width: 20vh;
+    top: 45%;
+	  left: 2%;
+    transform: translateY(-50%);
+    margin: 0 auto;
+}
+
+.scoreboard-info-header {
+    position: relative;
+    height: 2vh;
+}
+
+#info-tab-label {
+    position: absolute;
+    font-family: 'Tajawal';
+    color: rgb(0, 0, 0);
+    left: 1vh;
+    font-weight: bold;
+}
+
+#status-tab-label {
+    position: absolute;
+    font-family: 'Tajawal';
+    color: rgb(0, 0, 0);
+    right: 5px;
+    font-weight: bold;
+}
+
+.info-beam-title {
+    position: absolute;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 1.2vh;
+    font-weight: lighter;
+    color: rgb(0, 0, 0);
+    letter-spacing: 0.1vh;
+    left: 1vh;
+    line-height: 4.25vh;
+}
+
+.info-beam-status {
+    position: absolute;
+    font-family: 'Tajawal';
+    font-size: 1.6vh;
+    color: rgb(0, 0, 0);
+    right: 2vh;
+    float: left;
+    text-align: left;
+    line-height: 4.25vh;
+}
+
+.info-beam-status1 {
+    position: absolute;
+    font-family: 'Tajawal';
+    font-size: 1.6vh;
+    color: rgb(0, 0, 0);
+    right: 2vh;
+    float: left;
+    text-align: left;
+    line-height: 4.25vh;
+}
+
+.scoreboard-info-beam {
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px rgb(0, 0, 0);
+    height: 3.75vh;
+    margin: 5px 1px 1px 1px;
+    width: 100%;
+}
+
+.scoreboard-info-beam1 {
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px rgb(0, 0, 0);
+    height: 3.75vh;
+    margin: 5px 1px 1px 1px;
+    width: 100%;
+}
+
+
+.fa-check {
+    color: rgb(59, 141, 49);
+}
+
+.fa-clock {
+    color: rgb(255, 190, 50);
+}
+
+.green {
+    color: rgb(98, 255, 78);
+}
+
+.red {
+    color: rgb(235, 59, 59);
+}
+
+.clover-logo {
+  position: absolute;
+  margin-left: 33%;
+  margin-top: -15%;
+  height: 13.4vh;
+  width: 13.4vh;
+}
