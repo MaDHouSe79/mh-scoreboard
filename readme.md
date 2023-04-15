@@ -31,7 +31,6 @@
 - Rebuild of qb-scoreboard.
 - admins are able to disable the id avobe the there head. 
 - if you want, you can have the text GOD or ADMIN with your ID, you are also able to disable this option in the config.lua.
-- full costible
 
 # Optional
 - okokNotify
