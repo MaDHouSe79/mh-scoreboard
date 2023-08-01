@@ -1,4 +1,5 @@
 Config = {}
+Config.newQBFramework = true -- true if you have a new qbcore with type in the shared jobs.
 -----------------------------------------------------------------------------------------------------------------------------------
 Config.MaxPlayers = 128 -- the max players you can have on your server.
 Config.OpenKey = 'HOME' -- https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
