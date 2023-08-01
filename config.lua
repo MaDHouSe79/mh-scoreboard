@@ -42,7 +42,7 @@ Config.MechanicsJobs = {
 -- dont change the `names` cause this are not the `names` that is showing on the screen.
 -- the `label` thats what is showed on the screen.
 Config.Jobs = {
-    ['police']         = {name = 'police',         label = Lang:t('label.police'),         count = 0, active = true, icon = "👮"},
+    ['police']         = {name = 'police',         label = Lang:t('label.police'),         count = 0, active = true, icon = "👮"}, -- if you have the new qbcore change the first police to "leo"
     ['ambulance']      = {name = 'ambulance',      label = Lang:t('label.ambulance'),      count = 0, active = true, icon = "👨‍⚕️"},
     ['mechanic']       = {name = 'mechanic',       label = Lang:t('label.mechanic'),       count = 0, active = true, icon = "👨‍🔧"},
     ['taxi']           = {name = 'taxi',           label = Lang:t('label.taxi'),           count = 0, active = true, icon = "👲"},
