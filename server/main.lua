@@ -54,10 +54,15 @@ QBCore.Functions.CreateCallback('qb-scoreboard:server:GetActivity', function(sou
         if Config.MechanicsJobs[v.PlayerData.job.name] and v.PlayerData.job.onduty then
             jobs['mechanic'].count = jobs['mechanic'].count + 1
         end
-        if jobs[v.PlayerData.job.name] and v.PlayerData.job.onduty then
-            jobs[v.PlayerData.job.name].count = jobs[v.PlayerData.job.name].count + 1
+        if not Config.newQBFramework then
+            if jobs[v.PlayerData.job.name] and v.PlayerData.job.onduty then
+                jobs[v.PlayerData.job.name].count = jobs[v.PlayerData.job.name].count + 1
+            end
+        else
+            if jobs[v.PlayerData.job.type] and v.PlayerData.job.onduty then
+                jobs[v.PlayerData.job.type].count = jobs[v.PlayerData.job.type].count + 1
+            end
         end
-    end
     cb(jobs)
 end)
 
