@@ -22,7 +22,7 @@ QBCore.Functions.CreateCallback('qb-scoreboard:server:countCops', function(sourc
                 online = online + 1
             end
         else
-            if target.PlayerData.type == 'leo' and target.PlayerData.job.onduty then
+            if target.PlayerData.job.type == 'leo' and target.PlayerData.job.onduty then
                 online = online + 1
             end
         end
