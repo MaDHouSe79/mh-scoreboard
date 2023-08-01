@@ -17,7 +17,7 @@ QBCore.Functions.CreateCallback('qb-scoreboard:server:countCops', function(sourc
     local online = 0
     for k, v in pairs(QBCore.Functions.GetPlayers()) do
         local target = QBCore.Functions.GetPlayer(v)
-        if Config.newQBFramework then
+        if not Config.newQBFramework then
             if target.PlayerData.job.name == 'police' and target.PlayerData.job.onduty then
                 online = online + 1
             end
