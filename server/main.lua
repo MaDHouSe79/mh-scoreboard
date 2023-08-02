@@ -63,6 +63,7 @@ QBCore.Functions.CreateCallback('qb-scoreboard:server:GetActivity', function(sou
                 jobs[v.PlayerData.job.type].count = jobs[v.PlayerData.job.type].count + 1
             end
         end
+    end
     cb(jobs)
 end)
 
