@@ -82,11 +82,9 @@ TriggerServerEvent('qb-scoreboard:server:SetActivityBusy', 'Pacific', false)    
 --
 ```
 
-## 🐞 Any bugs issues or suggestions, let my know. 👊😎
-
-## 🙈 Youtube & Discord
+## 🙈 Youtube
 - [Youtube](https://www.youtube.com/@MaDHouSe79) for videos
-- [Discord](https://discord.gg/cEMSeE9dgS)
+
 
 # LICENSE
 [GPL LICENSE](./LICENSE)<br />
