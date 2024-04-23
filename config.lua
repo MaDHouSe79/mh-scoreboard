@@ -31,10 +31,10 @@ Config.Lang = {
 -- NOTE Do not add the `mechanic` job here.
 -- the jobs below will be count with the mechanic job.
 Config.MechanicsJobs = {
-    ['pitstop'],
-    ['tuner'],
-    ['abtcartrading'],
-    ['scrapyard'],
+    ['pitstop'] = true,
+    ['tuner'] = true,
+    ['abtcartrading'] = true,
+    ['scrapyard'] = true,
 }
 -----------------------------------------------------------------------------------------------------------------------------------
 -- all jobs you have in the city with translation and icone
