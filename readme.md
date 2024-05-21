@@ -79,8 +79,3 @@ TriggerServerEvent('qb-scoreboard:server:SetActivityBusy', 'Pacific', false)    
 
 ## 🙈 Youtube
 - [Youtube](https://www.youtube.com/@MaDHouSe79) for videos
-
-
-# LICENSE
-[GPL LICENSE](./LICENSE)<br />
-&copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
