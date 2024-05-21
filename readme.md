@@ -29,7 +29,7 @@
 
 # MH Scoreboard
 - Rebuild of qb-scoreboard.
-- admins are able to disable the id avobe the there head. 
+- admins are able to disable the id above there head. 
 - if you want, you can have the text GOD or ADMIN with your ID, you are also able to disable this option in the config.lua.
 - if you have a new qbcore with type in the shared jobs you need to edit the config.lua.
 
@@ -37,11 +37,6 @@
 - okokNotify
 - Roda_Notifications:
 
-# Screenshot
-![foto1](https://media.discordapp.net/attachments/1057778180024447116/1094419139604529215/SPOILER_Aantekening_2023-04-09_020733.png?width=559&height=676)
-![foto2](https://media.discordapp.net/attachments/1057778180024447116/1094419139851976734/SPOILER_Aantekening_2023-04-09_022609.png?width=954&height=676)
-![foto3](https://media.discordapp.net/attachments/1057778180024447116/1094595669781663787/SPOILER_Aantekening_2023-04-09_141018.png)
-![foto4](https://media.discordapp.net/attachments/1057778180024447116/1094595670092021850/SPOILER_Aantekening_2023-04-09_141101.png)
 
 # Trigger disable id when in noclip, 
 - put this in your client admin resources where you go in and out noclip.
